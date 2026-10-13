@@ -9,13 +9,13 @@
 <h1 align="center"> Social Media: </h1>
 <p align="center">
   <a href="https://github.com/BrunoRafa01">
-    <img src="https://img.shields.io/badge/github-7cebf5?&style=for-the-badge&logo=github&logoColor=black">
+    <img src="https://img.shields.io/badge/github-FF6B2A?&style=for-the-badge&logo=github&logoColor=black">
   </a>
   <a href="https://linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
+    <img src="https://img.shields.io/badge/linkedin-FF6B2A?&style=for-the-badge&logo=linkedin&logoColor=black">
   </a>
   <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=gmail&logoColor=black">
+    <img src="https://img.shields.io/badge/SEND%20MAIL-FF6B2A?&style=for-the-badge&logo=gmail&logoColor=black">
   </a>
 </p>
 
@@ -63,8 +63,8 @@ Busco sempre aplicar boas práticas, princípios de orientação a objetos e mod
     <img src="https://skillicons.dev/icons?i=git,github&perline=8" alt="Engenharia e Ferramentas" />
   </a>
   <br/>
-  <img src="https://img.shields.io/badge/UML-PlantUML%20%2F%20Mermaid-7cebf5?style=for-the-badge&labelColor=1F222E" alt="UML" />
-  <img src="https://img.shields.io/badge/CachyOS-Linux-7cebf5?style=for-the-badge&labelColor=1F222E&logo=archlinux&logoColor=white" alt="CachyOS" />
+  <img src="https://img.shields.io/badge/UML-PlantUML%20%2F%20Mermaid-FF6B2A?style=for-the-badge&labelColor=160406" alt="UML" />
+  <img src="https://img.shields.io/badge/CachyOS-Linux-FF6B2A?style=for-the-badge&labelColor=160406&logo=archlinux&logoColor=white" alt="CachyOS" />
 </p>
 <br>
 
@@ -73,29 +73,18 @@ Busco sempre aplicar boas práticas, princípios de orientação a objetos e mod
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoRafa01&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoRafa01&background=160406&border=7A2A12&stroke=7A2A12&ring=FF6B2A&fire=FF6B2A&currStreakNum=FF6B2A&sideNums=FF6B2A&currStreakLabel=FF6B2A&sideLabels=D55A2F&dates=D55A2F" />
   <br/><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BrunoRafa01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRafa01&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BrunoRafa01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRafa01&langs_count=8&layout=compact&bg_color=160406&title_color=FF6B2A&icon_color=FF6B2A&text_color=F5D0C0&border_color=7A2A12&border_radius=10" height="192px"/></a>
 </p>
 
 <!-- Projects section -->
 
-## 📘 Meus projetos
 
-<table align="center">
-  <tr>
-    <td align="center"><a href="https://github.com/BrunoRafa01/Nuvem"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRafa01&repo=Nuvem&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="Nuvem"></a></td>
-    <td align="center"><a href="https://github.com/BrunoRafa01/Diagramas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRafa01&repo=Diagramas&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="Diagramas"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/BrunoRafa01/Prova-pratica-de-APOO"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRafa01&repo=Prova-pratica-de-APOO&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="Prova-pratica-de-APOO"></a></td>
-    <td align="center"><a href="https://github.com/BrunoRafa01/BrunoRafa01"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRafa01&repo=BrunoRafa01&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="BrunoRafa01"></a></td>
-  </tr>
-</table>
 
 <p align="center">
   <br/>
-  <a href="https://github.com/BrunoRafa01?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=github"/></a>
+  <a href="https://github.com/BrunoRafa01?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FF6B2A?style=for-the-badge&logoColor=white&logo=github"/></a>
 </p>
 
 <br/>
@@ -111,7 +100,3 @@ Busco sempre aplicar boas práticas, princípios de orientação a objetos e mod
 
 <!-- contact -->
 
-## 📫 Como me encontrar
-
-- <a href="mailto:seu-email@exemplo.com">Me envie um e-mail</a>
-- <a href="https://linkedin.com/in/seu-linkedin">LinkedIn</a>
