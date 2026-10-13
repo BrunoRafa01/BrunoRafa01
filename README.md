@@ -1,76 +1,82 @@
 <!-- HERO -->
 <div align="center">
   <a href="https://github.com/BrunoRafa01">
-    <img src="https://www.gitskins.com/api/section/hero?username=brunorafa01&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203416720%3Fu%3D291b76738d3641ad23a666e88dc7506dd3ee31e5%26v%3D4" alt="BrunoRafa01 hero" />
+    <img src="https://www.gitskins.com/api/section/hero?username=BrunoRafa01&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203416720%3Fu%3D291b76738d3641ad23a666e88dc7506dd3ee31e5%26v%3D4" alt="BrunoRafa01 hero" />
   </a>
 </div>
 
-<!-- Social icons section -->
-<h1 align="center"> Social Media: </h1>
+<!-- Contact section -->
+<h3 align="center">Contato</h3>
 <p align="center">
   <a href="https://github.com/BrunoRafa01">
-    <img src="https://img.shields.io/badge/github-FF6B2A?&style=for-the-badge&logo=github&logoColor=black">
+    <img src="https://img.shields.io/badge/GitHub-BrunoRafa01-FF6B2A?style=for-the-badge&logo=github&logoColor=black&labelColor=160406">
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/linkedin-FF6B2A?&style=for-the-badge&logo=linkedin&logoColor=black">
+  <a href="mailto:bxpzin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-bxpzin@gmail.com-FF6B2A?style=for-the-badge&logo=gmail&logoColor=black&labelColor=160406">
   </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/SEND%20MAIL-FF6B2A?&style=for-the-badge&logo=gmail&logoColor=black">
+  <a href="https://instagram.com/_brunorafaell7">
+    <img src="https://img.shields.io/badge/Instagram-@__brunorafaell7-FF6B2A?style=for-the-badge&logo=instagram&logoColor=black&labelColor=160406">
   </a>
 </p>
 
 <hr>
 
 <!-- Description about me -->
-<h2 align="center"> 🤔 Olá, eu sou Bruno Rafael 👋 </h2>
+<h2 align="center"> Bruno Rafael </h2>
 
-Sou estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b> localizado em <b>Caxias - MA</b> 📍 <br />
-Tenho forte foco em <b>engenharia de software</b>, <b>arquitetura de banco de dados</b> e <b>desenvolvimento back-end</b> 🖥️ <br />
-Busco sempre aplicar boas práticas, princípios de orientação a objetos e modelagem estruturada em meus projetos 📐
-<br/><br/>
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), em Caxias - MA. Desenvolvedor full stack com ênfase em back-end. Atuo com engenharia de software e arquitetura de banco de dados, aplicando boas práticas, orientação a objetos e modelagem estruturada.
 
-### 🚀 Sobre mim
+### Foco atual
 
-- 💻 Atualmente desenvolvendo aplicações e explorando integrações em **C#** e APIs REST com **Python**
-- 🗄️ Apaixonado por modelagem de dados e arquitetura relacional (DDL, Stored Procedures, Joins complexos) utilizando **MySQL**
-- 🐧 Entusiasta do ecossistema **Linux** (Arch/CachyOS), priorizando fluxos de trabalho eficientes via terminal e customização de ambientes
-- 📐 Experiência com levantamento de requisitos, diagramação **UML** (PlantUML/Mermaid) e princípios de IHC (Interação Humano-Computador)
-- 🌱 Estudando continuamente segurança da informação e arquitetura de software tri-tier
+- Desenvolvimento back-end em **C#**, **C**, **PHP (Laravel)**, **Node.js** e **Python** (APIs REST), com experiência em **Rust**
+- Desenvolvimento front-end com **HTML**, **CSS**, **JavaScript** e **TypeScript**
+- Modelagem de dados e bancos relacionais em **MySQL** e **PostgreSQL**: DDL, Stored Procedures e consultas com joins complexos, além de **MongoDB** para dados não relacionais
+- Levantamento de requisitos e modelagem **UML** (PlantUML e Mermaid), com princípios de IHC
+- Arquitetura de software em três camadas e segurança da informação
+- Ambiente atual em **Windows** com **Visual Studio**, **Docker** e uso diário do **terminal**; experiência com diversas distribuições **Linux**, incluindo Arch e CachyOS
 
-<br><br>
+<br>
 
 <!-- languages and skills section -->
 
-<h1 align="center"> Linguagens & Back-end: </h1>
+<h3 align="center">Linguagens e Back-end</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,java,php&perline=8" alt="Linguagens e Back-end" />
+    <img src="https://skillicons.dev/icons?i=c,cs,py,java,php,laravel,rust,nodejs&perline=8" alt="Linguagens e Back-end" />
   </a>
 </p>
 <br>
 
-<h1 align="center"> Banco de Dados & Infraestrutura: </h1>
+<h3 align="center">Front-end</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,linux,arch&perline=8" alt="Banco de Dados e Infraestrutura" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=8" alt="Front-end" />
   </a>
 </p>
 <br>
 
-<h1 align="center"> Engenharia & Ferramentas: </h1>
+<h3 align="center">Banco de Dados e Infraestrutura</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github&perline=8" alt="Engenharia e Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,windows,linux,arch&perline=8" alt="Banco de Dados e Infraestrutura" />
+  </a>
+</p>
+<br>
+
+<h3 align="center">Engenharia e Ferramentas</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,git,github,visualstudio&perline=8" alt="Engenharia e Ferramentas" />
   </a>
   <br/>
   <img src="https://img.shields.io/badge/UML-PlantUML%20%2F%20Mermaid-FF6B2A?style=for-the-badge&labelColor=160406" alt="UML" />
-  <img src="https://img.shields.io/badge/CachyOS-Linux-FF6B2A?style=for-the-badge&labelColor=160406&logo=archlinux&logoColor=white" alt="CachyOS" />
+  <img src="https://img.shields.io/badge/Linux-Multi--distro-FF6B2A?style=for-the-badge&labelColor=160406&logo=linux&logoColor=white" alt="Linux multi-distro" />
 </p>
 <br>
 
 <!-- GitHub stats section -->
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoRafa01&background=160406&border=7A2A12&stroke=7A2A12&ring=FF6B2A&fire=FF6B2A&currStreakNum=FF6B2A&sideNums=FF6B2A&currStreakLabel=FF6B2A&sideLabels=D55A2F&dates=D55A2F" />
@@ -79,8 +85,6 @@ Busco sempre aplicar boas práticas, princípios de orientação a objetos e mod
 </p>
 
 <!-- Projects section -->
-
-
 
 <p align="center">
   <br/>
@@ -91,7 +95,7 @@ Busco sempre aplicar boas práticas, princípios de orientação a objetos e mod
 
 <!-- last activity section -->
 
-## Activity Graph
+## Atividade
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Activity Graph 3D de BrunoRafa01"/>
 </p>
@@ -99,4 +103,3 @@ Busco sempre aplicar boas práticas, princípios de orientação a objetos e mod
 <br/>
 
 <!-- contact -->
-
